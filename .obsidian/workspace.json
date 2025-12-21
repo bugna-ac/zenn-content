@@ -174,19 +174,9 @@
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
-          },
-          {
-            "id": "0033a43606e5792b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -206,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0033a43606e5792b",
+  "active": "ccbd32fa8c266d31",
   "lastOpenFiles": [
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
