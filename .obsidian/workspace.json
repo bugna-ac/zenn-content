@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 316.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ccbd32fa8c266d31",
+  "active": "ab2c3151b5bd4315",
   "lastOpenFiles": [
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
