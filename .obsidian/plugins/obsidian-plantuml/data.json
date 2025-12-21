@@ -1,11 +1,11 @@
 {
-  "server_url": "http://localhost:8080/uml",
+  "server_url": "http://localhost:8080",
   "header": "",
   "debounce": 3,
   "localJar": "",
   "javaPath": "java",
-  "dotPath": "/opt/homebrew/bin/dot",
+  "dotPath": "C:/PROGRA~1/Graphviz/bin/dot.exe",
   "defaultProcessor": "png",
   "cache": 60,
-  "exportPath": "/articels/images"
+  "exportPath": "images"
 }

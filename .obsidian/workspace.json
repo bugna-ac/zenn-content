@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "0c9dfa16e63f0a"
             }
+          },
+          {
+            "id": "0114392ddbcc2e8d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "http://localhost:8000/articles/1f5048e32d4e3b",
+                "title": "1f5048e32d4e3bのプレビュー",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "1f5048e32d4e3bのプレビュー"
+            }
           }
         ]
       }
@@ -89,39 +103,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "791e1d47ebfb4e0f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "articles/0c9dfa16e63f0a.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "0c9dfa16e63f0aへのバックリンク"
-            }
-          },
-          {
-            "id": "cd84c460dbd67872",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "articles/0c9dfa16e63f0a.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "0c9dfa16e63f0aからのアウトゴーイングリンク"
-            }
-          },
-          {
             "id": "abf18ac039be1273",
             "type": "leaf",
             "state": {
@@ -171,8 +152,8 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
             }
           },
           {
@@ -194,13 +175,23 @@
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
+          },
+          {
+            "id": "273403fac8f91ceb",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,16 +207,40 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1f09cbcaedc4569b",
+  "active": "ab2c3151b5bd4315",
   "lastOpenFiles": [
-    "articles/1f5048e32d4e3b.md",
-    "articles/0c9dfa16e63f0a.md",
-    "plantuml-1.2025.10.jar",
+    "articles/181677a2b7ddbb.md",
     "articles/596bd86734e498.md",
     "articles/26cf6421d7b29d.md",
     "articles/7c673eab465d5b.md",
-    "Others/Zenn用のプロファイル.md",
-    "Others",
+    "articles/1f5048e32d4e3b.md",
+    "images/export_1f5048e32d4e3b}_20251221231714.png",
+    "articles/0c9dfa16e63f0a.md",
+    "node_modules/zenn-cli/dist/client/logo.svg",
+    "node_modules/zenn-cli/dist/client/favicon.png",
+    "node_modules/zenn-cli/dist/client/static-images/folder-open.svg",
+    "node_modules/zenn-cli/dist/client/static-images/folder-close.svg",
+    "node_modules/zenn-cli/dist/client/static-images/copy-icon.svg",
+    "node_modules/zenn-cli/dist/client/static-images/book-cover.png",
+    "node_modules/zenn-cli/dist/client/static-images",
+    "node_modules/zenn-cli/dist/server/zenn.js.map",
+    "node_modules/zenn-cli/package.json",
+    "node_modules/default-browser-id/readme.md",
+    "node_modules/default-browser-id/package.json",
+    "node_modules/default-browser-id/index.js",
+    "node_modules/default-browser-id/license",
+    "node_modules/wsl-utils/index.js",
+    "node_modules/define-lazy-prop/index.d.ts",
+    "node_modules/default-browser/index.d.ts",
+    "node_modules/zenn-cli/dist/client/assets/index-C7bZ8cau.css",
+    "node_modules/default-browser/readme.md",
+    "node_modules/bundle-name/readme.md",
+    "node_modules/define-lazy-prop/readme.md",
+    "node_modules/open/readme.md",
+    "node_modules/is-inside-container/readme.md",
+    "node_modules/is-docker/readme.md",
+    "node_modules/is-wsl/readme.md",
+    "ideas/Zenn用のプロファイル.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
@@ -235,29 +250,6 @@
     "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "articles/images",
-    "README.md",
-    "books",
-    "articles",
-    "package-lock.json",
-    "node_modules/zenn-cli/README.md",
-    "node_modules/zenn-cli/package.json",
-    "node_modules/run-applescript/index.d.ts",
-    "node_modules/run-applescript/readme.md",
-    "node_modules/default-browser/readme.md",
-    "node_modules/is-inside-container/readme.md",
-    "node_modules/wsl-utils/readme.md",
-    "node_modules/zenn-cli/dist/client/static-images/folder-open.svg",
-    "node_modules/zenn-cli/dist/client/static-images/folder-close.svg",
-    "node_modules/zenn-cli/dist/client/static-images/copy-icon.svg",
-    "node_modules/zenn-cli/dist/client/static-images/book-cover.png",
-    "node_modules/zenn-cli/dist/client/logo.svg",
-    "node_modules/zenn-cli/dist/client/favicon.png"
+    "copilot/copilot-custom-prompts/Simplify.md"
   ]
 }

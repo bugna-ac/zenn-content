@@ -4,7 +4,7 @@
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
   "show_autocomplete_menu": true,
-  "working_directory": "/Users/bugna/Documents/git/zenn-content",
+  "working_directory": "E:\\git\\zenn-content",
   "default_shells": {},
   "environment_variable_path_augmentations": {
     "darwin": "/opt/homebrew/bin/node"
@@ -28,7 +28,7 @@
     {
       "id": "mf62zdh944",
       "platform_specific_commands": {
-        "default": "/opt/homebrew/bin/node ./node_modules/zenn-cli/dist/server/zenn.js new:article"
+        "default": "C:/PROGRA~1/nodejs/node.exe ./node_modules/zenn-cli/dist/server/zenn.js new:article"
       },
       "shells": {},
       "alias": "zenn-new",
