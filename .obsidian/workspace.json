@@ -20,20 +20,6 @@
               "icon": "lucide-file",
               "title": "0c9dfa16e63f0a"
             }
-          },
-          {
-            "id": "0114392ddbcc2e8d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "http://localhost:8000/articles/1f5048e32d4e3b",
-                "title": "1f5048e32d4e3bのプレビュー",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "1f5048e32d4e3bのプレビュー"
-            }
           }
         ]
       }
@@ -152,8 +138,8 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
             }
           },
           {
@@ -172,8 +158,8 @@
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
             }
           },
           {
@@ -182,8 +168,51 @@
             "state": {
               "type": "SC-custom-variables-view",
               "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
+              "icon": "lucide-ghost",
+              "title": "SC-custom-variables-view"
+            }
+          },
+          {
+            "id": "bca249f1cfda2973",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "articles/0c9dfa16e63f0a.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "0c9dfa16e63f0aへのバックリンク"
+            }
+          },
+          {
+            "id": "8ed5f823ca476386",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "articles/0c9dfa16e63f0a.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "0c9dfa16e63f0aからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "19d4342e66877e45",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
             }
           }
         ],
@@ -191,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,15 +236,16 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "ab2c3151b5bd4315",
+  "active": "0619f7c6579c447a",
   "lastOpenFiles": [
     "articles/181677a2b7ddbb.md",
+    "articles/a76bc04ed2c754.md",
     "articles/596bd86734e498.md",
     "articles/26cf6421d7b29d.md",
     "articles/7c673eab465d5b.md",
     "articles/1f5048e32d4e3b.md",
-    "images/export_1f5048e32d4e3b}_20251221231714.png",
     "articles/0c9dfa16e63f0a.md",
+    "images/export_1f5048e32d4e3b}_20251221231714.png",
     "node_modules/zenn-cli/dist/client/logo.svg",
     "node_modules/zenn-cli/dist/client/favicon.png",
     "node_modules/zenn-cli/dist/client/static-images/folder-open.svg",

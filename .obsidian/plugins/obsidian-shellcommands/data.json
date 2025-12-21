@@ -4,7 +4,7 @@
   "obsidian_command_palette_prefix": "Execute: ",
   "preview_variables_in_command_palette": true,
   "show_autocomplete_menu": true,
-  "working_directory": "E:\\git\\zenn-content",
+  "working_directory": "S:\\git\\zenn-content",
   "default_shells": {},
   "environment_variable_path_augmentations": {
     "darwin": "/opt/homebrew/bin/node"

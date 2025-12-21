@@ -4,7 +4,7 @@
   "debounce": 3,
   "localJar": "",
   "javaPath": "java",
-  "dotPath": "C:/PROGRA~1/Graphviz/bin/dot.exe",
+  "dotPath": "C:\\Users\\a15856\\scoop\\shims\\dot.exe",
   "defaultProcessor": "png",
   "cache": 60,
   "exportPath": "images"
