@@ -1,0 +1,7 @@
+{
+  "remoteURL": "https://github.com/bugna-ac/zenn-content.git",
+  "gitLocation": "/opt/homebrew/bin/git",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true
+}
