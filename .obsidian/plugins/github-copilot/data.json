@@ -28,8 +28,8 @@
       "expiresAt": null
     },
     "selectedModel": {
-      "label": "GPT-4.1",
-      "value": "gpt-4.1-2025-04-14"
+      "label": "GPT-5-mini",
+      "value": "gpt-5-mini"
     }
   },
   "systemPrompt": "You are GitHub Copilot, an AI assistant. You are helping the user with their tasks in Obsidian.",

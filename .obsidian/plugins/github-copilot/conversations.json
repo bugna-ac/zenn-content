@@ -1,0 +1,29 @@
+{
+  "conversations": [
+    {
+      "id": "1766296143053",
+      "title": "plantumlの",
+      "messages": [
+        {
+          "id": "1766296143052",
+          "content": "plantumlの",
+          "role": "user",
+          "timestamp": 1766296143052
+        },
+        {
+          "id": "chatcmpl-Cp6bQ7EM27c00EKFy9JCGKJyunFdu",
+          "content": "「plantumlの…」だけでしたが、何を知りたいですか？（例：Obsidianでの設定方法、サンプル図、書き方のコツ、エラー対応など）\n\nとりあえず Obsidian で PlantUML を使うための短い案内と代表的なサンプルを載せます。\n\n1) 準備（方法は主に2つ）\n- プラグイン方式（ローカルでレンダリング）\n  - Obsidian の Settings → Community plugins → Browse で「PlantUML」プラグインを探してインストール・有効化。\n  - ローカルでレンダリングする場合、Java（JRE）と plantuml.jar、そして図によっては Graphviz（dot）が必要。プラグイン設定で plantuml.jar のパスを指定します。\n- サーバー方式（手軽）\n  - プラグイン設定で PlantUML Server の URL（例: https://www.plantuml.com/plantuml）を指定すると、ローカルに Java を入れずに表示できます（ただしプライバシーに注意）。\n\n2) Markdown 内での書き方（Obsidian のプレビューでレンダリングされる）\n- コードブロックを使う:\n```plantuml\n@startuml\nAlice -> Bob: Hello\nBob --> Alice: Hi\n@enduml\n```\n\n3) 代表的なサンプル\n- シーケンス図:\n@startuml\nAlice -> Bob: Hello\nBob --> Alice: Hi\n@enduml\n- クラス図:\n@startuml\nclass User {\n  - id: int\n  + login()\n}\nclass Order\nUser \"1\" -- \"*\" Order\n@enduml\n- アクティビティ図:\n@startuml\nstart\n:Do task;\nif (OK?) then (yes)\n  :Done;\nelse (no)\n  :Retry;\nendif\nstop\n@enduml\n\n4) トラブルシューティング\n- レンダリングされない：プラグインが有効か、plantuml.jar またはサーバーURLが正しいか、Java/Graphviz がインストールされているか確認。\n- プレビューではなく編集画面で図を見たい：ライブプレビューやプラグインの「Render on edit」設定を確認。\n- プライバシーが気になる：共有したくない内容はローカルレンダリングにする（サーバー方式だと外部サーバーに送信される）。\n\n必要なら、あなたの環境（OS、Obsidian のバージョン、使いたい方式）を教えてください。具体的な設定手順や詳しいサンプルを用意します。",
+          "role": "assistant",
+          "timestamp": 1766296159286
+        }
+      ],
+      "createdAt": 1766296143053,
+      "updatedAt": 1766296159287,
+      "model": {
+        "label": "GPT-5-mini",
+        "value": "gpt-5-mini"
+      }
+    }
+  ],
+  "activeConversationId": "1766296143053"
+}
