@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d61c3174a52d7d1d",
+        "id": "59022d08d317120c",
         "type": "tabs",
         "children": [
           {
-            "id": "0619f7c6579c447a",
+            "id": "c0ae27b35f888658",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -133,16 +133,6 @@
             }
           },
           {
-            "id": "ccbd32fa8c266d31",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
-            }
-          },
-          {
             "id": "ab2c3151b5bd4315",
             "type": "leaf",
             "state": {
@@ -150,59 +140,6 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            }
-          },
-          {
-            "id": "1f09cbcaedc4569b",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
-            }
-          },
-          {
-            "id": "273403fac8f91ceb",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "SC-custom-variables-view"
-            }
-          },
-          {
-            "id": "bca249f1cfda2973",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "articles/0c9dfa16e63f0a.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "0c9dfa16e63f0aへのバックリンク"
-            }
-          },
-          {
-            "id": "8ed5f823ca476386",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "articles/0c9dfa16e63f0a.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "0c9dfa16e63f0aからのアウトゴーイングリンク"
             }
           },
           {
@@ -216,7 +153,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -236,15 +173,18 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "0619f7c6579c447a",
+  "active": "ab2c3151b5bd4315",
   "lastOpenFiles": [
+    "articles/1f5048e32d4e3b.md",
+    "images/Pasted-image-20251222081916.png",
+    "articles/0c9dfa16e63f0a.md",
+    "images/Pasted-image-20251222081523.png",
+    "images/Pasted.md",
     "articles/181677a2b7ddbb.md",
     "articles/a76bc04ed2c754.md",
     "articles/596bd86734e498.md",
     "articles/26cf6421d7b29d.md",
     "articles/7c673eab465d5b.md",
-    "articles/1f5048e32d4e3b.md",
-    "articles/0c9dfa16e63f0a.md",
     "images/export_1f5048e32d4e3b}_20251221231714.png",
     "node_modules/zenn-cli/dist/client/logo.svg",
     "node_modules/zenn-cli/dist/client/favicon.png",
@@ -278,8 +218,6 @@
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
     "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md"
+    "copilot/copilot-custom-prompts/Emojify.md"
   ]
 }
