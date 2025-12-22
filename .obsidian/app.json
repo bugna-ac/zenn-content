@@ -1,4 +1,5 @@
 {
   "attachmentFolderPath": "images",
-  "autoPairMarkdown": false
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true
 }
