@@ -39,14 +39,14 @@
             "id": "71e90349f6f19bdb",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://zenn.dev/bugnabuna",
-                "title": "ばぐさんの記事一覧 | Zenn",
-                "mode": "webview"
+                "file": "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "ばぐさんの記事一覧 | Zenn"
+              "icon": "lucide-file",
+              "title": "Roo CodeとObsidianによるコンテキスト管理"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -194,6 +194,16 @@
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
+          },
+          {
+            "id": "6d84d11bd955cbfc",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
         "currentTab": 3
@@ -216,11 +226,14 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1335d26e187b7fbb",
+  "active": "ab2c3151b5bd4315",
   "lastOpenFiles": [
-    "articles/1f5048e32d4e3b.md",
+    "ideas/Roo Codeを使ってて困ったこと.md",
+    "copilot/copilot-conversations/Zennなどで、初級～中級車に向けた、こなれた箇条書きに修@20251223_133554.md",
+    "copilot/copilot-conversations",
     "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
     "articles/d19cdb235cc5c2.md",
+    "articles/1f5048e32d4e3b.md",
     "articles/0c9dfa16e63f0a.md",
     "ideas/社内SEの悩み/第5セクション.md",
     "ideas/社内SEの悩み/第6セクション.md",
@@ -260,9 +273,6 @@
     "node_modules/default-browser-id/license",
     "node_modules/wsl-utils/index.js",
     "node_modules/define-lazy-prop/index.d.ts",
-    "node_modules/default-browser/index.d.ts",
-    "node_modules/default-browser/readme.md",
-    "node_modules/bundle-name/readme.md",
-    "node_modules/define-lazy-prop/readme.md"
+    "node_modules/default-browser/readme.md"
   ]
 }
