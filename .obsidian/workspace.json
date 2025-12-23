@@ -70,11 +70,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://zenn.dev/bugnabuna/articles/0c9dfa16e63f0a",
-                "title": "ZennとObsidianの連携",
+                "title": "ObsidianだけでZennを書く",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "ZennとObsidianの連携"
+              "title": "ObsidianだけでZennを書く"
             }
           }
         ],
@@ -232,12 +232,12 @@
   },
   "active": "a7666ff53aa060b2",
   "lastOpenFiles": [
+    "articles/0c9dfa16e63f0a.md",
     "ideas/Zenn用のプロファイル.md",
     "ideas/社内SEの悩み/第6セクション.md",
     "ideas/社内SEの悩み/第1セクション.md",
     "ideas/社内SEの悩み/社内SEの悩み.md",
     "ideas/社内SEの悩み/Zenn公開用Markdown案.md",
-    "articles/0c9dfa16e63f0a.md",
     "articles/1f5048e32d4e3b.md",
     "images/Pasted-image-20251223074319.png",
     "images/Pasted-image-20251223073933.png",
