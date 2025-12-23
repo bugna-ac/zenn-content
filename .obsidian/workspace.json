@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/Zenn用のプロファイル.md",
+                "file": "ideas/公開済み/Zenn用のプロファイル.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
+                "file": "ideas/公開済み/Roo CodeとObsidianによるコンテキスト管理.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/d19cdb235cc5c2.md",
+                "file": "ideas/Roo Codeを使ってて困ったこと.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "d19cdb235cc5c2"
+              "title": "Roo Codeを使ってて困ったこと"
             }
           },
           {
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/d19cdb235cc5c2.md",
+                "file": "ideas/Roo Codeを使ってて困ったこと.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "d19cdb235cc5c2のアウトライン"
+              "title": "Roo Codeを使ってて困ったことのアウトライン"
             }
           },
           {
@@ -242,17 +242,19 @@
   },
   "active": "71e90349f6f19bdb",
   "lastOpenFiles": [
-    "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
+    "ideas/公開済み/Zenn用のプロファイル.md",
+    "ideas/公開済み/Roo CodeとObsidianによるコンテキスト管理.md",
+    "ideas/Roo Codeを使ってて困ったこと.md",
+    "ideas/公開済み",
+    "ideas/無題のファイル.md",
+    "ideas/無題のファイル 1.md",
     "articles/d19cdb235cc5c2.md",
     "articles/0c9dfa16e63f0a.md",
-    "ideas/Roo Codeを使ってて困ったこと.md",
     "copilot/copilot-conversations/Zennなどで、初級～中級車に向けた、こなれた箇条書きに修@20251223_133554.md",
     "copilot/copilot-conversations",
     "articles/1f5048e32d4e3b.md",
     "ideas/社内SEの悩み/第5セクション.md",
     "ideas/社内SEの悩み/第6セクション.md",
-    "ideas/Zenn用のプロファイル.md",
-    "ideas/無題のファイル.md",
     "ideas/社内SEの悩み/第1セクション.md",
     "ideas/社内SEの悩み/社内SEの悩み.md",
     "ideas/社内SEの悩み/Zenn公開用Markdown案.md",
@@ -281,12 +283,9 @@
     "node_modules/zenn-cli/dist/client/static-images",
     "node_modules/zenn-cli/dist/server/zenn.js.map",
     "node_modules/zenn-cli/package.json",
-    "node_modules/default-browser-id/readme.md",
     "node_modules/default-browser-id/package.json",
     "node_modules/default-browser-id/index.js",
     "node_modules/default-browser-id/license",
-    "node_modules/wsl-utils/index.js",
-    "node_modules/define-lazy-prop/index.d.ts",
-    "node_modules/default-browser/readme.md"
+    "node_modules/wsl-utils/index.js"
   ]
 }
