@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "d19cdb235cc5c2"
             }
+          },
+          {
+            "id": "1d31e09faeb6c8d0",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://zenn.dev/bugnabuna/articles/d19cdb235cc5c2",
+                "title": "Roo CodeとObsidianによるコンテキスト管理",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Roo CodeとObsidianによるコンテキスト管理"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,13 +180,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Roo CodeとObsidianによるコンテキスト管理のアウトライン"
+              "title": "アウトライン"
             }
           },
           {
@@ -228,11 +241,11 @@
   },
   "active": "ab2c3151b5bd4315",
   "lastOpenFiles": [
+    "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
+    "articles/d19cdb235cc5c2.md",
     "ideas/Roo Codeを使ってて困ったこと.md",
     "copilot/copilot-conversations/Zennなどで、初級～中級車に向けた、こなれた箇条書きに修@20251223_133554.md",
     "copilot/copilot-conversations",
-    "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
-    "articles/d19cdb235cc5c2.md",
     "articles/1f5048e32d4e3b.md",
     "articles/0c9dfa16e63f0a.md",
     "ideas/社内SEの悩み/第5セクション.md",
