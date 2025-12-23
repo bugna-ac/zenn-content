@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,12 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "Roo CodeとObsidianによるコンテキスト管理のアウトライン"
             }
           },
           {
@@ -239,7 +240,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1d31e09faeb6c8d0",
+  "active": "71e90349f6f19bdb",
   "lastOpenFiles": [
     "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
     "articles/d19cdb235cc5c2.md",
