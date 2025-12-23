@@ -53,14 +53,14 @@
             "id": "17d96e9402893397",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "http://localhost:8000/articles/d19cdb235cc5c2",
-                "title": "Roo CodeとObsidianによるコンテキスト管理のプレビュー",
-                "mode": "webview"
+                "file": "articles/1f5048e32d4e3b.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Roo CodeとObsidianによるコンテキスト管理のプレビュー"
+              "icon": "lucide-file",
+              "title": "1f5048e32d4e3b"
             }
           }
         ],
@@ -166,12 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "articles/1f5048e32d4e3b.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "1f5048e32d4e3bのアウトライン"
             }
           },
           {
@@ -218,9 +219,9 @@
   "active": "17d96e9402893397",
   "lastOpenFiles": [
     "articles/d19cdb235cc5c2.md",
-    "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
     "articles/1f5048e32d4e3b.md",
     "articles/0c9dfa16e63f0a.md",
+    "ideas/Roo CodeとObsidianによるコンテキスト管理.md",
     "ideas/社内SEの悩み/第5セクション.md",
     "ideas/社内SEの悩み/第6セクション.md",
     "ideas/Zenn用のプロファイル.md",
