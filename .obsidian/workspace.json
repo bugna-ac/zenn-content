@@ -41,12 +41,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://zenn.dev/",
-                "title": "Zenn｜エンジニアのための情報共有コミュニティ",
+                "url": "https://zenn.dev/bugnabuna",
+                "title": "ばぐさんの記事一覧 | Zenn",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Zenn｜エンジニアのための情報共有コミュニティ"
+              "title": "ばぐさんの記事一覧 | Zenn"
             }
           },
           {
