@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/Roo Codeを使ってて困ったこと.md",
+                "file": "ideas/Roo Codeを使ってて困ったこと/Roo Codeを使ってて困ったこと.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Roo Codeを使ってて困ったこと"
+            }
+          },
+          {
+            "id": "7ce349701223db97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "articles/d19cdb235cc5c2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "d19cdb235cc5c2"
             }
           },
           {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,6 +232,39 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "7f8439cc9d17064d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "articles/d19cdb235cc5c2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "d19cdb235cc5c2へのバックリンク"
+            }
+          },
+          {
+            "id": "42ab333aacd857d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "articles/d19cdb235cc5c2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "d19cdb235cc5c2からのアウトゴーイングリンク"
+            }
           }
         ],
         "currentTab": 3
@@ -240,16 +287,57 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "71e90349f6f19bdb",
+  "floating": {
+    "id": "83e298947a17b590",
+    "type": "floating",
+    "children": [
+      {
+        "id": "07dccba4e07025fc",
+        "type": "window",
+        "children": [
+          {
+            "id": "874e8db2c7f3e8dc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "43a5cd86d6258748",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "ideas/Roo Codeを使ってて困ったこと/退避文章.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "退避文章"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1024,
+        "y": 42,
+        "width": 1024,
+        "height": 801,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ab2c3151b5bd4315",
   "lastOpenFiles": [
+    "articles/0c9dfa16e63f0a.md",
+    "articles/d19cdb235cc5c2.md",
+    "ideas/Roo Codeを使ってて困ったこと/Roo Codeを使ってて困ったこと.md",
+    "ideas/Roo Codeを使ってて困ったこと/退避文章.md",
+    "ideas/Roo Codeを使ってて困ったこと",
     "ideas/公開済み/Zenn用のプロファイル.md",
     "ideas/公開済み/Roo CodeとObsidianによるコンテキスト管理.md",
-    "ideas/Roo Codeを使ってて困ったこと.md",
     "ideas/公開済み",
     "ideas/無題のファイル.md",
     "ideas/無題のファイル 1.md",
-    "articles/d19cdb235cc5c2.md",
-    "articles/0c9dfa16e63f0a.md",
     "copilot/copilot-conversations/Zennなどで、初級～中級車に向けた、こなれた箇条書きに修@20251223_133554.md",
     "copilot/copilot-conversations",
     "articles/1f5048e32d4e3b.md",
@@ -285,7 +373,6 @@
     "node_modules/zenn-cli/package.json",
     "node_modules/default-browser-id/package.json",
     "node_modules/default-browser-id/index.js",
-    "node_modules/default-browser-id/license",
-    "node_modules/wsl-utils/index.js"
+    "node_modules/default-browser-id/license"
   ]
 }
