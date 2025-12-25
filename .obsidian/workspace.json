@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/0c9dfa16e63f0a.md",
+                "file": "Others/Zennの投稿記事のアイデア.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0c9dfa16e63f0a"
+              "title": "Zennの投稿記事のアイデア"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "articles/0c9dfa16e63f0a.md",
+                "file": "Others/Zennの投稿記事のアイデア.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "0c9dfa16e63f0aへのバックリンク"
+              "title": "Zennの投稿記事のアイデアへのバックリンク"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "articles/0c9dfa16e63f0a.md",
+                "file": "Others/Zennの投稿記事のアイデア.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0c9dfa16e63f0aのアウトライン"
+              "title": "Zennの投稿記事のアイデアのアウトライン"
             }
           },
           {
@@ -183,6 +183,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "fd342360c72299e4",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -207,15 +217,20 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "ab2c3151b5bd4315",
+  "active": "0619f7c6579c447a",
   "lastOpenFiles": [
+    "Others/Zenn用のプロファイル.md",
+    "Others/Zennの投稿記事のアイデア.md",
     "articles/1f5048e32d4e3b.md",
     "articles/0c9dfa16e63f0a.md",
+    "images/20251221174114.png",
+    "Pasted image 20251221174008.png",
+    "copilot/copilot-conversations/間違いを訂正して@20251221_173103.md",
+    "copilot/copilot-conversations",
+    "articles/7c673eab465d5b.md",
     "plantuml-1.2025.10.jar",
     "articles/596bd86734e498.md",
     "articles/26cf6421d7b29d.md",
-    "articles/7c673eab465d5b.md",
-    "Others/Zenn用のプロファイル.md",
     "Others",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
@@ -232,18 +247,16 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "articles/images",
+    "images",
     "README.md",
     "books",
     "articles",
     "package-lock.json",
     "node_modules/zenn-cli/README.md",
     "node_modules/zenn-cli/package.json",
-    "node_modules/run-applescript/index.d.ts",
     "node_modules/run-applescript/readme.md",
     "node_modules/default-browser/readme.md",
     "node_modules/is-inside-container/readme.md",
-    "node_modules/wsl-utils/readme.md",
     "node_modules/zenn-cli/dist/client/static-images/folder-open.svg",
     "node_modules/zenn-cli/dist/client/static-images/folder-close.svg",
     "node_modules/zenn-cli/dist/client/static-images/copy-icon.svg",
