@@ -4,5 +4,6 @@
   "ai-providers",
   "obsidian-git",
   "obsidian-shellcommands",
-  "obsidian-plantuml"
+  "obsidian-plantuml",
+  "diagram-zoom-drag"
 ]

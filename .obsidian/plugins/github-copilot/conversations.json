@@ -15,10 +15,34 @@
           "content": "「plantumlの…」だけでしたが、何を知りたいですか？（例：Obsidianでの設定方法、サンプル図、書き方のコツ、エラー対応など）\n\nとりあえず Obsidian で PlantUML を使うための短い案内と代表的なサンプルを載せます。\n\n1) 準備（方法は主に2つ）\n- プラグイン方式（ローカルでレンダリング）\n  - Obsidian の Settings → Community plugins → Browse で「PlantUML」プラグインを探してインストール・有効化。\n  - ローカルでレンダリングする場合、Java（JRE）と plantuml.jar、そして図によっては Graphviz（dot）が必要。プラグイン設定で plantuml.jar のパスを指定します。\n- サーバー方式（手軽）\n  - プラグイン設定で PlantUML Server の URL（例: https://www.plantuml.com/plantuml）を指定すると、ローカルに Java を入れずに表示できます（ただしプライバシーに注意）。\n\n2) Markdown 内での書き方（Obsidian のプレビューでレンダリングされる）\n- コードブロックを使う:\n```plantuml\n@startuml\nAlice -> Bob: Hello\nBob --> Alice: Hi\n@enduml\n```\n\n3) 代表的なサンプル\n- シーケンス図:\n@startuml\nAlice -> Bob: Hello\nBob --> Alice: Hi\n@enduml\n- クラス図:\n@startuml\nclass User {\n  - id: int\n  + login()\n}\nclass Order\nUser \"1\" -- \"*\" Order\n@enduml\n- アクティビティ図:\n@startuml\nstart\n:Do task;\nif (OK?) then (yes)\n  :Done;\nelse (no)\n  :Retry;\nendif\nstop\n@enduml\n\n4) トラブルシューティング\n- レンダリングされない：プラグインが有効か、plantuml.jar またはサーバーURLが正しいか、Java/Graphviz がインストールされているか確認。\n- プレビューではなく編集画面で図を見たい：ライブプレビューやプラグインの「Render on edit」設定を確認。\n- プライバシーが気になる：共有したくない内容はローカルレンダリングにする（サーバー方式だと外部サーバーに送信される）。\n\n必要なら、あなたの環境（OS、Obsidian のバージョン、使いたい方式）を教えてください。具体的な設定手順や詳しいサンプルを用意します。",
           "role": "assistant",
           "timestamp": 1766296159286
+        },
+        {
+          "id": "1766443707396",
+          "content": "mermaidの簡単なサンプルを教えて",
+          "role": "user",
+          "timestamp": 1766443707396
+        },
+        {
+          "id": "chatcmpl-CpizUVXGCkoMbT8sn8OXMS5GfqywN",
+          "content": "いいですね。Mermaid の代表的な図の簡単サンプルをいくつか載せます。Obsidian ではコードブロックを使って（```mermaid ... ```）プレビューでそのまま描画できます。\n\n1) フローチャート（左→右）\n```mermaid\nflowchart LR\n  A[Start] --> B{Question}\n  B -- Yes --> C[Do something]\n  B -- No --> D[Stop]\n  C --> D\n```\n\n2) シーケンス図\n```mermaid\nsequenceDiagram\n  Alice->>Bob: Hello Bob, how are you?\n  Bob-->>Alice: I'm fine, thanks!\n```\n\n3) クラス図\n```mermaid\nclassDiagram\n  class User {\n    +int id\n    +String name\n    +login()\n  }\n  class Order {\n    +int id\n    +create()\n  }\n  User \"1\" -- \"*\" Order : places\n```\n\n4) ステート図\n```mermaid\nstateDiagram-v2\n  [*] --> Idle\n  Idle --> Running : start\n  Running --> Paused : pause\n  Paused --> Running : resume\n  Running --> [*] : stop\n```\n\n5) ガントチャート\n```mermaid\ngantt\n  dateFormat  YYYY-MM-DD\n  title Simple Gantt\n  section Development\n    Design        :done,    des1, 2025-01-01, 3d\n    Implementation:active,  imp1, 2025-01-04, 7d\n  section Testing\n    Test          :crit,    test1, after imp1, 4d\n```\n\n6) 円グラフ\n```mermaid\npie title Favorite Languages\n  \"Python\" : 45\n  \"JavaScript\" : 30\n  \"Go\" : 15\n  \"Other\" : 10\n```\n\n7) ER 図（erDiagram）\n```mermaid\nerDiagram\n  CUSTOMER ||--o{ ORDER : places\n  ORDER ||--|{ LINE_ITEM : contains\n  CUSTOMER {\n    string name\n    string custNumber\n  }\n  ORDER {\n    int orderNumber\n    date orderDate\n  }\n```\n\n必要なら、Obsidian での使い方（設定やライブプレビューの有効化）、あるいは特定の図の詳細オプションや見た目をカスタマイズする方法も説明します。どれを詳しく見たいですか？",
+          "role": "assistant",
+          "timestamp": 1766443729078
+        },
+        {
+          "id": "1766443775174",
+          "content": "mermaidの書式で表示して。レンダリングされてソースがみえない。",
+          "role": "user",
+          "timestamp": 1766443775174
+        },
+        {
+          "id": "chatcmpl-Cpj0ZWQtuy5mvKDpC0UuP5cv9GPXg",
+          "content": "```mermaid\nflowchart LR\n  A[Start] --> B{Proceed?}\n  B -- Yes --> C[Do Task]\n  B -- No --> D[End]\n  C --> E{Success?}\n  E -- Yes --> D\n  E -- No --> C\n```\n\n```mermaid\nsequenceDiagram\n  participant Alice\n  participant Bob\n  Alice->>Bob: Hello Bob, how are you?\n  Bob-->>Alice: I'm fine, thanks!\n  Alice->>Bob: Let's start the task\n  Bob-->>Alice: OK\n```\n\n```mermaid\nclassDiagram\n  class User {\n    +int id\n    +String name\n    +login()\n  }\n  class Order {\n    +int id\n    +create()\n  }\n  User \"1\" -- \"*\" Order : places\n```\n\n```mermaid\nstateDiagram-v2\n  [*] --> Idle\n  Idle --> Running : start\n  Running --> Paused : pause\n  Paused --> Running : resume\n  Running --> [*] : stop\n```\n\n```mermaid\ngantt\n  dateFormat  YYYY-MM-DD\n  title Project Plan\n  section Phase 1\n    Design        :done,    des1, 2025-01-01, 3d\n    Implement     :active,  imp1, 2025-01-04, 7d\n  section Phase 2\n    Test          :crit,    test1, after imp1, 4d\n```",
+          "role": "assistant",
+          "timestamp": 1766443791462
         }
       ],
       "createdAt": 1766296143053,
-      "updatedAt": 1766296159287,
+      "updatedAt": 1766443791462,
       "model": {
         "label": "GPT-5-mini",
         "value": "gpt-5-mini"

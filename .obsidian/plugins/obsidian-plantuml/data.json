@@ -1,5 +1,5 @@
 {
-  "server_url": "https://www.plantuml.com/plantuml",
+  "server_url": "http://localhost:8080/uml",
   "header": "",
   "debounce": 3,
   "localJar": "",
@@ -7,5 +7,5 @@
   "dotPath": "/opt/homebrew/bin/dot",
   "defaultProcessor": "png",
   "cache": 60,
-  "exportPath": ""
+  "exportPath": "/articels/images"
 }
