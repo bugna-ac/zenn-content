@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/社内SEが感じるタイムスリップ/ネタだし.md",
+                "file": "articles/9e3cf573c903a3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ネタだし"
+              "title": "9e3cf573c903a3"
             }
           }
         ],
@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas/50代の社内SEの中身/Zenn記事構成案.md",
+                "file": "Others/Zennの投稿記事のアイデア.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zenn記事構成案"
+              "title": "Zennの投稿記事のアイデア"
             }
           }
         ]
@@ -265,7 +265,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 415.5
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,16 +281,19 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "ab2c3151b5bd4315",
+  "active": "bb99db80bc81605c",
   "lastOpenFiles": [
+    "ideas/社内SEが感じるタイムスリップ/ネタだし.md",
+    "Others/Zennの投稿記事のアイデア.md",
     "articles/9e3cf573c903a3.md",
+    "dairy_notes",
+    "README.md",
     "ideas/50代の社内SEの中身/Zenn記事構成案.md",
     "ideas/50代の社内SEの中身/50代の社内SEのパソコン履歴（だけの記事）.md",
     "ideas/50代の社内SEの中身/C4モデルとUML - 2025年にどちらを選ぶべきですか？.pdf",
     "ideas/50代の社内SEの中身/BPMN vs UML: 適切なモデリング言語の選択 | Creately.pdf",
     "ideas/Roo Codeを使ってて困ったこと/Perplexityによる分析.md",
     "articles/6bc9775186eaf7.md",
-    "Others/Zennの投稿記事のアイデア.md",
     "images/images50代の社内SEのパソコン履歴（だけの記事）-2026-01-12-05-15-21.png",
     "articles/d19cdb235cc5c2.md",
     "articels/images",
@@ -306,9 +309,7 @@
     "ideas/from_A_to_B-ETLとは、私の仕事.md",
     "ideas/from A to B --- ETLとは、私の仕事とは？.md",
     "02.Clippings/LLM-RAG/The AI workspace that works for you..md",
-    "02.Clippings/LLM-RAG",
     "02.Clippings/LLM-RAG/必要なのはメモリだけです：大規模な言語モデル推論を加速するためのメモリ内コンピューティングアーキテクチャの概要.md",
-    "ideas/社内SEが感じるタイムスリップ/ネタだし.md",
     "ideas/無題のファイル.md",
     "articles/0c9dfa16e63f0a.md",
     "ideas/Roo Codeを使ってて困ったこと/退避文章.md",
@@ -326,7 +327,6 @@
     "ideas/社内SEの悩み/第6セクション.md",
     "ideas/社内SEの悩み/第5セクション.md",
     "ideas/社内SEの悩み/第4セクション.md",
-    "ideas/社内SEの悩み/第3セクション.md",
     "images/20251221174114.png"
   ]
 }
