@@ -4,67 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "59022d08d317120c",
+        "id": "d61c3174a52d7d1d",
         "type": "tabs",
         "children": [
           {
-            "id": "c0ae27b35f888658",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/公開済み/Zenn用のプロファイル.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zenn用のプロファイル"
-            }
-          },
-          {
-            "id": "1335d26e187b7fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/公開済み/Roo CodeとObsidianによるコンテキスト管理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roo CodeとObsidianによるコンテキスト管理"
-            }
-          },
-          {
-            "id": "71e90349f6f19bdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/Roo Codeを使ってて困ったこと/Roo Codeを使ってて困ったこと、臨時の対応策.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Roo Codeを使ってて困ったこと、臨時の対応策"
-            }
-          },
-          {
-            "id": "7ce349701223db97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "articles/0c9dfa16e63f0a.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0c9dfa16e63f0a"
-            }
-          },
-          {
-            "id": "3c91f8cce7f8befe",
+            "id": "3f375cdb7bcf6372",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,21 +22,41 @@
             }
           },
           {
-            "id": "1d31e09faeb6c8d0",
+            "id": "bb99db80bc81605c",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://zenn.dev/bugnabuna/articles/d19cdb235cc5c2",
-                "title": "Roo CodeとObsidianによるコンテキスト管理",
-                "mode": "webview"
+                "file": "ideas/社内SEが感じるタイムスリップ/ネタだし.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "Roo CodeとObsidianによるコンテキスト管理"
+              "icon": "lucide-file",
+              "title": "ネタだし"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "38fc2334f438a277",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cecf03d0c2a7296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideas/50代の社内SEの中身/Zenn記事構成案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zenn記事構成案"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300
   },
   "right": {
     "id": "46b7d0430081e396",
@@ -159,6 +123,39 @@
         "id": "8524a08cbfdb95f4",
         "type": "tabs",
         "children": [
+          {
+            "id": "791e1d47ebfb4e0f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "articles/6bc9775186eaf7.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "6bc9775186eaf7へのバックリンク"
+            }
+          },
+          {
+            "id": "cd84c460dbd67872",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "articles/0c9dfa16e63f0a.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "0c9dfa16e63f0aからのアウトゴーイングリンク"
+            }
+          },
           {
             "id": "abf18ac039be1273",
             "type": "leaf",
@@ -194,13 +191,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas/Roo Codeを使ってて困ったこと.md",
+                "file": "articles/6bc9775186eaf7.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Roo Codeを使ってて困ったことのアウトライン"
+              "title": "6bc9775186eaf7のアウトライン"
+            }
+          },
+          {
+            "id": "ccbd32fa8c266d31",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
             }
           },
           {
@@ -214,17 +221,7 @@
             }
           },
           {
-            "id": "19d4342e66877e45",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
-          },
-          {
-            "id": "6d84d11bd955cbfc",
+            "id": "fd342360c72299e4",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -234,44 +231,41 @@
             }
           },
           {
-            "id": "7f8439cc9d17064d",
+            "id": "06f6c1fa91351cb5",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "ideas/Roo Codeを使ってて困ったこと/Roo Codeを使ってて困ったこと、臨時の対応策.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Roo Codeを使ってて困ったこと、臨時の対応策へのバックリンク"
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           },
           {
-            "id": "42ab333aacd857d2",
+            "id": "f663272fd2009037",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "ideas/Roo Codeを使ってて困ったこと/Roo Codeを使ってて困ったこと、臨時の対応策.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Roo Codeを使ってて困ったこと、臨時の対応策からのアウトゴーイングリンク"
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "7e8bb3e6251c65fa",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 415.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,53 +281,52 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "3c91f8cce7f8befe",
+  "active": "ab2c3151b5bd4315",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "articles/0c9dfa16e63f0a.md",
-    "articles/d19cdb235cc5c2.md",
-    "images/20251221174114.png",
-    "ideas/Roo Codeを使ってて困ったこと/Roo Codeを使ってて困ったこと対応策.md",
-    "copilot/copilot-conversations/間違いを訂正して@20251221_173103.md",
+    "articles/9e3cf573c903a3.md",
+    "ideas/50代の社内SEの中身/Zenn記事構成案.md",
+    "ideas/50代の社内SEの中身/50代の社内SEのパソコン履歴（だけの記事）.md",
+    "ideas/50代の社内SEの中身/C4モデルとUML - 2025年にどちらを選ぶべきですか？.pdf",
+    "ideas/50代の社内SEの中身/BPMN vs UML: 適切なモデリング言語の選択 | Creately.pdf",
+    "ideas/Roo Codeを使ってて困ったこと/Perplexityによる分析.md",
     "articles/6bc9775186eaf7.md",
-    "articles/0c9dfa16e63f0a.md.bak",
     "Others/Zennの投稿記事のアイデア.md",
-    "Others",
-    "ideas/Roo Codeを使ってて困ったこと/Roo Codeを使ってて困ったこと、臨時の対応策.md",
-    "ideas/Roo Codeを使ってて困ったこと/退避文章.md",
-    "ideas/社内SEの悩み/Zenn公開用Markdown案.md",
-    "ideas/社内SEの悩み/第1セクション.md",
-    "ideas/社内SEの悩み/社内SEの悩み.md",
-    "ideas/Roo Codeを使ってて困ったこと",
-    "ideas/公開済み/Zenn用のプロファイル.md",
-    "ideas/公開済み/Roo CodeとObsidianによるコンテキスト管理.md",
-    "ideas/公開済み",
+    "images/images50代の社内SEのパソコン履歴（だけの記事）-2026-01-12-05-15-21.png",
+    "articles/d19cdb235cc5c2.md",
+    "articels/images",
+    "articels",
+    "ideas/LLM-RAGのOOP的なアプローチ/LLM-RAGのOOP的なアプローチ.md",
+    "ideas/50代の社内SEの中身/plantuml02.txt",
+    "ideas/50代の社内SEの中身/plantuml01.txt",
+    "ideas/50代の社内SEの中身/名称未設定.txt",
+    "名称未設定.txt",
+    "copilot/copilot-conversations/1990-1993に大学にいた頃で、日立の汎用機の操作を課外授業で@20260112_094029.md",
+    "ideas/50代の社内SEの中身",
+    "ideas/前向き文章のテンプレート化.md",
+    "ideas/from_A_to_B-ETLとは、私の仕事.md",
+    "ideas/from A to B --- ETLとは、私の仕事とは？.md",
+    "02.Clippings/LLM-RAG/The AI workspace that works for you..md",
+    "02.Clippings/LLM-RAG",
+    "02.Clippings/LLM-RAG/必要なのはメモリだけです：大規模な言語モデル推論を加速するためのメモリ内コンピューティングアーキテクチャの概要.md",
+    "ideas/社内SEが感じるタイムスリップ/ネタだし.md",
     "ideas/無題のファイル.md",
-    "ideas/無題のファイル 1.md",
-    "copilot/copilot-conversations/Zennなどで、初級～中級車に向けた、こなれた箇条書きに修@20251223_133554.md",
-    "copilot/copilot-conversations",
+    "articles/0c9dfa16e63f0a.md",
+    "ideas/Roo Codeを使ってて困ったこと/退避文章.md",
+    "ideas/Roo Codeを使ってて困ったこと/Roo Codeを使ってて困ったこと対応策.md",
     "articles/1f5048e32d4e3b.md",
-    "ideas/社内SEの悩み/第5セクション.md",
-    "ideas/社内SEの悩み/第6セクション.md",
+    "conflict-files-obsidian-git.md",
+    "images/export_1f5048e32d4e3b}_20251221231714.png",
+    "images/export_0c9dfa16e63f0a}_20251223073442.png",
     "images/Pasted-image-20251223074319.png",
     "images/Pasted-image-20251223073933.png",
-    "images.md",
-    "images/export_0c9dfa16e63f0a}_20251223073442.png",
-    "images/export_1f5048e32d4e3b}_20251221231714.png",
     "images/Pasted-image-20251223073354.png",
     "images/Pasted-image-20251223072445.png",
-    "README.md",
-    "ideas/社内SEの悩み/第4セクション.md",
-    "ideas/社内SEの悩み/第3セクション.md",
-    "ideas/社内SEの悩み/第2セクション.md",
-    "ideas/社内SEの悩み",
     "images/Pasted-image-20251222081916.png",
     "images/Pasted-image-20251222081523.png",
-    "images/Pasted.md",
-    "node_modules/zenn-cli/dist/client/logo.svg",
-    "node_modules/zenn-cli/dist/client/static-images",
-    "node_modules/zenn-cli/dist/server/zenn.js.map",
-    "node_modules/zenn-cli/package.json",
-    "node_modules/default-browser-id/package.json"
+    "ideas/社内SEの悩み/第6セクション.md",
+    "ideas/社内SEの悩み/第5セクション.md",
+    "ideas/社内SEの悩み/第4セクション.md",
+    "ideas/社内SEの悩み/第3セクション.md",
+    "images/20251221174114.png"
   ]
 }

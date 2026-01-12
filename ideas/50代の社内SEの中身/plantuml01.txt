@@ -1,0 +1,71 @@
+@startuml
+title 50代社内SEの思考変遷（オブジェクト指向前後〜上流〜現在）
+
+[*] --> Pre_OO_Procedural
+
+state Pre_OO_Procedural {
+}
+
+note right of Pre_OO_Procedural
+  ・Fortran77 / 汎用機 / RS6000 でのサブルーチン中心の開発
+  ・PC-98 / Visual Basic による業務アプリ開発
+  ・「一人一台PC」環境の整備
+  ・Java好きの先輩の影響でオブジェクト指向を"聞く"
+  ・しかし Java / C++ は「見ただけで無理」と感じて拒否
+end note
+
+Pre_OO_Procedural --> OO_Interest_Frustration : Java/OOPの波にさらされる\n(VB, Rational Roseとの出会い)
+
+state OO_Interest_Frustration {
+  note right
+    ・本屋で Rational Rose / Visual Modeler に出会いUMLを知る
+    ・「図からコード生成」という魔法的体験への高揚
+    ・Visual Modeler 付属でさらに期待が高まる
+    ・しかしツールも概念も使いこなせず、挫折感が蓄積
+    ・OSS GIS + Python2 プラグインで仕組み理解の欲求は芽生えるが\n  Python2には馴染めず離脱
+  end note
+}
+
+OO_Interest_Frustration --> OO_Dev_Team_Practice : VB.NET / .NET 1.0/2.0 導入\nDLL分割チーム開発の経験
+
+state OO_Dev_Team_Practice {
+  note right
+    ・VB.NET で「現代的なプログラミング」へ移行
+    ・部品の再利用と DLL 分割でチーム開発を体感
+    ・JUDE などのUMLツールで配置図や構造を描く
+    ・OOP言語そのものより「部品化・再利用・構造化」の価値を実感
+  end note
+}
+
+OO_Dev_Team_Practice --> OO_Upstream_Modeling : UMLとGTDによる上流志向
+
+state OO_Upstream_Modeling {
+  note right
+    ・UMLをきっかけに「ビジュアルな業務整理」に目覚める
+    ・FreeMind などのマインドマップで要求を可視化し\n  ユースケース図に落とす流れを確立
+    ・GTD導入によりコンテキスト別のタスク管理で\n  頭の空っぽ化を実感
+    ・ドラッカー「マネジメント」、コヴィー「7つの習慣」を読み\n  外部要件/内部要件の分析軸を獲得
+    ・「オブジェクト指向＝設計・分析・自己管理を含む思考様式」に拡張
+  end note
+}
+
+OO_Upstream_Modeling --> Current_Agile_Product_Thinking : 技術開発と建設業界の課題に直面
+
+state Current_Agile_Product_Thinking {
+  note right
+    ・2000年以降、技術開発と建設業界のギャップに向き合う
+    ・現状把握の希薄さ/要求仕様の曖昧さ/アウトプット偏重を批判
+    ・バズワードに踊る技術導入と、利益を溶かす構造を認識
+    ・本質課題は原価・納期・人材減少・経験値バンク縮小と捉える
+    ・必要なのはアジャイルによる
+       - 本質的要求仕様の明確化・可視化
+       - プロダクトマネジメントと技術選定
+       - 小さな成果の積み上げ
+       - 外部要因の衝撃分散と抵抗組織の構築
+    ・オブジェクト指向的な「モデル化と分解」の視点を\n  組織・プロダクト・業界構造にまで拡張した状態
+  end note
+}
+
+Current_Agile_Product_Thinking --> [*]
+
+@enduml
