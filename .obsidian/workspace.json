@@ -6,6 +6,7 @@
       {
         "id": "d61c3174a52d7d1d",
         "type": "tabs",
+        "dimension": 55.90753424657534,
         "children": [
           {
             "id": "3f375cdb7bcf6372",
@@ -13,34 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "articles/6bc9775186eaf7.md",
+                "file": "ideas/NotebookLMとObsidian/Gemini Code Assistがどいうものか教えて。vs codeで動くのかな？回答は全て日本語で。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6bc9775186eaf7"
-            }
-          },
-          {
-            "id": "bb99db80bc81605c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ideas/NotebookLMとObsidian/NotebookLMとObsidianの使い分けと連携.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NotebookLMとObsidianの使い分けと連携"
+              "title": "Gemini Code Assistがどいうものか教えて。vs codeで動くのかな？回答は全て日本語で。"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "38fc2334f438a277",
         "type": "tabs",
+        "dimension": 44.09246575342466,
         "children": [
           {
             "id": "5cecf03d0c2a7296",
@@ -265,7 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,9 +268,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "bb99db80bc81605c",
+  "active": "ab2c3151b5bd4315",
   "lastOpenFiles": [
     "articles/9e3cf573c903a3.md",
+    "ideas/NotebookLMとObsidian/Gemini Code Assistがどいうものか教えて。vs codeで動くのかな？回答は全て日本語で。.md",
+    "articles/6bc9775186eaf7.md",
     "ideas/NotebookLMとObsidian/NotebookLMとObsidianの使い分けと連携.md",
     "ideas/NotebookLMとObsidian",
     "ideas/50代の社内SEの中身/Zenn記事構成案.md",
@@ -295,7 +284,6 @@
     "ideas/50代の社内SEの中身/C4モデルとUML - 2025年にどちらを選ぶべきですか？.pdf",
     "ideas/50代の社内SEの中身/BPMN vs UML: 適切なモデリング言語の選択 | Creately.pdf",
     "ideas/Roo Codeを使ってて困ったこと/Perplexityによる分析.md",
-    "articles/6bc9775186eaf7.md",
     "images/images50代の社内SEのパソコン履歴（だけの記事）-2026-01-12-05-15-21.png",
     "articles/d19cdb235cc5c2.md",
     "articels/images",
@@ -327,7 +315,6 @@
     "images/Pasted-image-20251222081523.png",
     "ideas/社内SEの悩み/第6セクション.md",
     "ideas/社内SEの悩み/第5セクション.md",
-    "ideas/社内SEの悩み/第4セクション.md",
     "images/20251221174114.png"
   ]
 }
