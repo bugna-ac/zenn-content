@@ -6,7 +6,7 @@
       {
         "id": "d61c3174a52d7d1d",
         "type": "tabs",
-        "dimension": 55.90753424657534,
+        "dimension": 55.907534246575345,
         "children": [
           {
             "id": "3f375cdb7bcf6372",
@@ -27,7 +27,7 @@
       {
         "id": "38fc2334f438a277",
         "type": "tabs",
-        "dimension": 44.09246575342466,
+        "dimension": 44.092465753424655,
         "children": [
           {
             "id": "5cecf03d0c2a7296",
@@ -188,16 +188,6 @@
             }
           },
           {
-            "id": "ccbd32fa8c266d31",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
-          },
-          {
             "id": "ab2c3151b5bd4315",
             "type": "leaf",
             "state": {
@@ -216,39 +206,9 @@
               "icon": "message-square",
               "title": "Copilot"
             }
-          },
-          {
-            "id": "06f6c1fa91351cb5",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "f663272fd2009037",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
-          },
-          {
-            "id": "7e8bb3e6251c65fa",
-            "type": "leaf",
-            "state": {
-              "type": "SC-custom-variables-view",
-              "state": {},
-              "icon": "code-glyph",
-              "title": "Shell commands: Custom variables"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -265,7 +225,9 @@
       "bases:Create new base": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "obsidian-to-note:Convert to note": false,
+      "github-issues:GitHub": false
     }
   },
   "active": "ab2c3151b5bd4315",
